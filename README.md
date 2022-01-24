@@ -39,3 +39,7 @@ Github Page:https://arcxingye.github.io/EatKano/index.html
 欢迎修改和续写，需保留跳转此仓库的开源按钮
 
 如整成自己想要的吃掉xxx，可以Fork一份改下图和字，并在github pages运行
+
+## 乱七八糟
+
+感谢原作者留了源代码可以让我瞎搞
